@@ -19,7 +19,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Note
-You need to run the sql file before executing the frontend and backend
+You need to run the sql file after executing the frontend and backend
 
 ## Screenshots
 
